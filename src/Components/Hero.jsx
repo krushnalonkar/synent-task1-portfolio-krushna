@@ -1,5 +1,4 @@
 import { motion as Motion } from 'framer-motion'
-import React from 'react'
 import Profile1 from '../assets/Profile1.avif';
 
 const Hero = () => {
