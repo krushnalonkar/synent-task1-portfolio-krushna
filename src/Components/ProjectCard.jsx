@@ -1,6 +1,4 @@
 
-import React from 'react'
-
 const ProjectCard = ({title, description, image, tech, demo, code}) => {
     return (
         <div className='bg-dark-300 rounded-2xl overflow-hidden hover:-translate-y-2 transition duration-300 cursor-pointer'>
