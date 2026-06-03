@@ -44,7 +44,7 @@ const About = () => {
                         <div className='rounded-2xl p-8'>
                             <h3 className='text-2xl font-semibold mb-6'>My Journey</h3>
                             <p className='text-gray-300 mb-6'>I'm an aspiring Web Developer passionate about creating responsive, user-friendly, and modern web applications. My journey began with learning how websites work, and gradually I developed a strong interest in frontend development, UI design, and building interactive user experiences.</p>
-                            <p className='text-gray-300 mb-12'>I enjoy working with technologies like React.js, JavaScript, HTML, and CSS while continuously improving my web development skills. I believe in writing clean code, creating responsive designs, and building applications that provide a great user experience.</p>
+                            <p className='text-gray-300 mb-12'>I enjoy working with technologies like React js, JavaScript, HTML, and CSS while continuously improving my web development skills. I believe in writing clean code, creating responsive designs, and building applications that provide a great user experience.</p>
 
                             {/* Card */}
                             <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
