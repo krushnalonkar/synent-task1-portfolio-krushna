@@ -1,7 +1,6 @@
 import emailjs from '@emailjs/browser'
 import { useRef } from 'react'
 import { motion as Motion } from 'framer-motion'
-import React from 'react'
 import { FaEnvelope, FaMapMarkerAlt, FaPhone, FaGithub, FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa'
 
 const Contact = () => {
