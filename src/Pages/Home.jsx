@@ -3,7 +3,7 @@ import Hero from '../Components/Hero'
 import About from '../Components/About'
 import Skills from '../Components/Skills'
 import Projects from '../Components/Projects'
-import Work from '../Components/Work'
+import Work from '../Components/Education'
 import Contact from '../Components/Contact'
 import Resume from '../Components/Resume'
 
