@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://krushnalonkar.github.io/portfolio-website",
+  "homepage": "https://krushnalonkar.github.io/synent-task1-portfolio-krushna/",
   "type": "module",
   "scripts": {
     "dev": "vite",
